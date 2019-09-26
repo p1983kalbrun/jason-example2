@@ -6,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JasonExample2Application {
 
 	public static void main(String[] args) {
-		org.springframework.boot.SpringApplication.run(JasonExample2Application.class, args);
+		org.springframework.boot.SpringApplication.run(JasonExample2Application.class,
+				args);
 	}
 
 }
